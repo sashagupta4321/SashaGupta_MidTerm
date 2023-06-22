@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\bin\Debug\net6.0\Prework.exe
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\bin\Debug\net6.0\Prework.deps.json
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\bin\Debug\net6.0\Prework.runtimeconfig.json
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\bin\Debug\net6.0\Prework.dll
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\bin\Debug\net6.0\Prework.pdb
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.csproj.AssemblyReference.cache
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.AssemblyInfoInputs.cache
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.AssemblyInfo.cs
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.dll
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\refint\Prework.dll
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.pdb
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\Prework.genruntimeconfig.cache
+C:\Users\Sasha\Desktop\CAD\Level2\softwareQuality\MidTerm\Prework\obj\Debug\net6.0\ref\Prework.dll
